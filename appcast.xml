@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>タイムラプス アップデート</title>
+    <link>https://yusukeinouehatchout.github.io/time_lapse_updates/</link>
+    <description>タイムラプス macOS版のアップデート</description>
+    <language>ja</language>
+    <item>
+      <title>タイムラプス 1.0.10</title>
+      <pubDate>Sat, 07 Nov 2026 16:22:20 +0900</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[アプリ内から更新を確認できるようにしました。初回の更新は撮影を停止して行ってください。]]></description>
+      <enclosure url="https://yusukeinouehatchout.github.io/time_lapse_updates/releases/time_lapse_app-1.0.10-14-macOS-arm64.zip" length="10281970" type="application/octet-stream" sparkle:edSignature="u1KW95FXfw8SnzrAM4aFkotz+u1fhBN4Ark0yQpsTPIC9mfcoX29wD7qLZ1kSFeXPqnMkwDz8rw1Qj3fdAPWCg==" />
+    </item>
+  </channel>
+</rss>
