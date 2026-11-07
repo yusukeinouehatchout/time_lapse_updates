@@ -6,6 +6,15 @@
     <description>タイムラプス macOS版のアップデート</description>
     <language>ja</language>
     <item>
+      <title>タイムラプス 1.0.14</title>
+      <pubDate>Sat, 07 Nov 2026 20:23:19 +0900</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>1.0.14</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[macOSメニューを日本語化し、「タイムラプス → 更新を確認…」を追加しました。AppBarの更新ボタンも引き続き利用できます。起動時の横幅はそのまま、縦幅を画面内容に合わせて調整します。撮影中は更新操作を開始できません。インストールはDMGから手動で行ってください。]]></description>
+      <enclosure url="https://yusukeinouehatchout.github.io/time_lapse_updates/releases/time_lapse_app-1.0.14-18-macOS-arm64.zip" length="10290946" type="application/octet-stream" sparkle:edSignature="txSDv03O9x5F3eYPvPPh076JP20OhLaDdropS5dSAfTkdB3S5Frvb50mPxw95iG+k8JeguPLukYQQ3DSsiiaDg==" />
+    </item>
+    <item>
         <title>タイムラプス 1.0.13</title>
         <pubDate>Sat, 07 Nov 2026 17:38:59 +0900</pubDate>
         <sparkle:version>17</sparkle:version>
